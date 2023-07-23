@@ -7,7 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 class SpringJenkinsApplicationTests {
 //
 	@Test
-	 contextLoads() {
+	void contextLoads() {
 	}
 
 }
